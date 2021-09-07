@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/sergohappwils/Defender-s-Depot-script/main/Defender-s-Depot-script%20Lua", true))()
+-- some scripts from robloxscripts.com
